@@ -15,11 +15,11 @@ Este proyecto implementa un árbol binario de búsqueda que guarda registros de 
 
 ## Cómo Compilar
 
-1. Abre una terminal y ve a la carpeta del proyecto:
-   cd /ruta/del/proyecto/parcial_3
-2. Compila el proyecto con lo siguiente: g++ -o mainTestPreorden mainTestPreorden.cpp arbolBinarioBusqueda.cpp node.cpp fecha.cpp fotodeteccion.cpp -std=c++11
-3. Para ejecutar el programa, escribe en la terminal: ./mainTestPreorden
-4. Cada vez que lo ejecutes, generará datos y resultados aleatorios.
+1. Abre una terminal y ve a la carpeta del proyecto
+2. Compila el proyecto con lo siguiente: g++ -c data.cpp mainTestTablaHash.cpp node.cpp TablaHash.cpp
+3. g++ data.o mainTestTablaHash.o node.o TablaHash.o -o ejecutame
+4. Para ejecutar el programa, escribe en la terminal: ./ejecutame
+
  
 
 
