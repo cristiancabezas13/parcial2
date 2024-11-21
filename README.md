@@ -16,8 +16,8 @@ Este proyecto implementa un árbol binario de búsqueda que guarda registros de 
 ## Cómo Compilar
 
 1. Abre una terminal y ve a la carpeta del proyecto
-2. Compila el proyecto con lo siguiente: g++ -c data.cpp mainTestTablaHash.cpp nodo.cpp TablaHash.cpp
-3. g++ data.o mainTestTablaHash.o nodo.o TablaHash.o -o ejecutame
+2. Compila el proyecto con lo siguiente: g++ -c data.cpp mainTestTablaHash.cpp nodo.cpp tablaHash.cpp
+3. g++ data.o mainTestTablaHash.o nodo.o tablaHash.o -o ejecutame
 4. Para ejecutar el programa, escribe en la terminal: ./ejecutame
 
  
